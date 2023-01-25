@@ -1,13 +1,22 @@
-﻿using Exiled.API.Features;
+﻿using Exiled.API.Enums;
+using Exiled.API.Features;
 using Exiled.API.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+
 using ServerHandler = Exiled.Events.Handlers.Server;
 
 namespace AutoFFToggle
 {
     public class MainPlugin : Plugin<Config>
     {
+        public override string Name => "AutoFFToggle";
+        public override string Author => "Thunder (originally Kognity)";
+        public override Version Version => new(2, 0, 0);
+        public override Version RequiredExiledVersion => new(6, 0, 0);
+        public override PluginPriority Priority => PluginPriority.Low;
+
         public static MainPlugin Singleton;
         public static EventHandlers Handlers;
 
