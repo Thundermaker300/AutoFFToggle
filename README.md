@@ -1,5 +1,5 @@
-![VERSION](https://img.shields.io/github/v/release/Thundermaker300/RoundReports?include_prereleases&style=for-the-badge)
-![DOWNLOADS](https://img.shields.io/github/downloads/Thundermaker300/RoundReports/total?style=for-the-badge)
+![VERSION](https://img.shields.io/github/v/release/Thundermaker300/AutoFFToggle?include_prereleases&style=for-the-badge)
+![DOWNLOADS](https://img.shields.io/github/downloads/Thundermaker300/AutoFFToggle/total?style=for-the-badge)
 [![DISCORD](https://img.shields.io/discord/1060274824330620979?label=Discord&style=for-the-badge)](https://discord.gg/3j54zBnbbD)
 
 # AutoFFToggle
