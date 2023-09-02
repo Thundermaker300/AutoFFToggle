@@ -13,7 +13,7 @@ namespace AutoFFToggle
     {
         public override string Name => "AutoFFToggle";
         public override string Author => "Thunder (originally Kognity)";
-        public override Version Version => new(2, 0, 2);
+        public override Version Version => new(2, 0, 3);
         public override Version RequiredExiledVersion => new(7, 0, 0);
         public override PluginPriority Priority => PluginPriority.Low;
 
